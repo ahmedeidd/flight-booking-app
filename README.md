@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## some Videos
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/1.gif "Design")
+![original Design](https://github.com/ahmedeidd/flight-booking-app/blob/main/screenshots/1.gif "Design")
 
 
 ## Screenshots
